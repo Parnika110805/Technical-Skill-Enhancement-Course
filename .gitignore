@@ -1,0 +1,10 @@
+# PyCharm
+.idea/
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc# created by virtualenv automatically
+venv/Lib
